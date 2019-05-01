@@ -1,0 +1,13 @@
+theme : simple
+
+logo : assets/img/stern_color_rgb.png
+logo-position : top-left
+
+layout : center
+
+published : true
+
+title : "Student Loans"
+description : "Results of my research"
+thumbnail : assets/img/stern_color_rgb.png
+
