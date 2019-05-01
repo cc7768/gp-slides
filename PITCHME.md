@@ -17,6 +17,7 @@ Chase Coleman
 @snap[north-west snap-45 text-center]
 
 **AMR**
+
 @ul
 - Constant monthly payment
 - No forgiveness
@@ -27,6 +28,7 @@ Chase Coleman
 @snap[north-east snap-45 text-center]
 
 **IDR**
+
 @ul
 - Payments are 10% of _disposable income_
 - Forgiveness after 20 years
@@ -45,6 +47,7 @@ Chase Coleman
 @snap[south-west span-15]
 
 **Variable**
+
 @ol
 - Avg Debt
 - Frac w debt
@@ -57,6 +60,7 @@ Chase Coleman
 @snap[south span-40]
 
 **AMR**
+
 @ol
 - $14,500
 - 80\%
@@ -69,6 +73,7 @@ Chase Coleman
 @snap[south-east span-40]
 
 **IDR**
+
 @ol
 - $17,900
 - 100\%
