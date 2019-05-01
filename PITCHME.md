@@ -20,6 +20,8 @@ Chase Coleman
 @ul
 - Constant monthly payment
 - No forgiveness
+@ulend
+
 @snapend
 
 @snap[east snap-45 text-center]
