@@ -14,7 +14,7 @@ Chase Coleman
 
 ---
 
-@snap[west snap-45 text-center]
+@snap[north-west snap-45 text-center]
 
 **AMR**
 @ul
@@ -24,7 +24,7 @@ Chase Coleman
 
 @snapend
 
-@snap[east snap-45 text-center]
+@snap[north-east snap-45 text-center]
 
 **IDR**
 @ul
@@ -42,7 +42,7 @@ Chase Coleman
 
 @snapend
 
-@snap[west span-15]
+@snap[south-west span-15]
 
 **Variable**
 @ol
@@ -54,7 +54,7 @@ Chase Coleman
 
 @snapend
 
-@snap[midpoint span-40]
+@snap[south span-40]
 
 **AMR**
 @ol
@@ -66,7 +66,7 @@ Chase Coleman
 
 @snapend
 
-@snap[east span-40]
+@snap[south-east span-40]
 
 **IDR**
 @ol
