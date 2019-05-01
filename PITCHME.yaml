@@ -7,6 +7,8 @@ layout : center
 
 published : true
 
+mathjax : TeX-MML-AM_HTMLorMML-full
+
 title : "Student Loans"
 description : "Results of my research"
 thumbnail : assets/img/stern_color_rgb.png
