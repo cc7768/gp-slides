@@ -1,6 +1,9 @@
+@snap[north span-80]
 # Student Loans
+@snapend
 
-@snap[midpoint span-40]
+@snap[south span-40]
+
 Chase Coleman
 
 1 May 2019
@@ -36,20 +39,22 @@ Chase Coleman
 ---
 
 @snap[north span-75 text-center]
+
 ## A tale of two economies
+
 @snapend
 
 @snap[west span-15]
 **Variable**
 
-@ul
+@ol
 
 - Avg Debt
 - Frac w debt
 - HS/CD/CG
 - Entry by GPA
 
-@ulend
+@olend
 
 @snapend
 
@@ -57,14 +62,14 @@ Chase Coleman
 
 **AMR**
 
-@ul
+@ol
 
 - $14,500
 - 80\%
 - 0.47/0.30/0.20
 - 0.26/0.35/0.58/0.90
 
-@ulend
+@olend
 
 @snapend
 
@@ -72,14 +77,14 @@ Chase Coleman
 
 **IDR**
 
-@ul
+@ol
 
 - $17,900
 - 100\%
 - 0.30/0.45/0.25
 - 0.42/0.50/0.82/0.99
 
-@ulend
+@olend
 
 @snapend
 
